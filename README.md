@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @azhao25
-- 👀 I’m interested in Chemical Engineering
+- 👀 I’m interested in Copmuter Science 
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on sustainability
 - 📫 How to reach me ()
